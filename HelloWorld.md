@@ -11,5 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-This is an R Markdown document. 
+This is a R Markdown document. 
 

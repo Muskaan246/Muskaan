@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-This is a Markdown document. 
+This is an R Markdown document. 
 
 ```{r cars}
 summary(cars)
